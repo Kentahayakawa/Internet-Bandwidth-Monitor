@@ -1,2 +1,3 @@
 # Internet-Bandwidth-Monitor
-Program that provides network usage data over the course of current online session, and prints them out
+A small utility program that tracks how much data you have uploaded and
+downloaded from the net during the course of your current online session.
